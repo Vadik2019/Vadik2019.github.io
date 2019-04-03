@@ -93,3 +93,7 @@ a.watch-now:hover {text-decoration: none;}
 #footer .shell {background: url(images/news-divider.gif) repeat-x 0 0; padding-top: 10px; margin: 0 auto;}
 #footer a {color: #fff; margin-right: 10px; text-decoration: underline;}
 #footer a:hover {text-decoration: none;}
+.fotky img {
+	height: 150px;
+	width: 200px;
+}
